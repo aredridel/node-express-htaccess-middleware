@@ -1,6 +1,6 @@
 {
   "name": "@aredridel/express-htaccess-middleware",
-  "version": "1.0.0-0",
+  "version": "1.0.0",
   "description": "An express middleware that interprets .htaccess rewrite rules.",
   "main": "lib/middleware.js",
   "scripts": {
