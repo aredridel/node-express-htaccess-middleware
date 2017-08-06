@@ -24,7 +24,7 @@
   "author": "Mickael Burguet <www.rundef.com>",
   "license": "MIT",
   "engines": {
-    "node": ">= 0.12.0"
+    "node": ">= 8.0.0"
   },
   "dependencies": {
     "app-root-path": "^1.2.1",
